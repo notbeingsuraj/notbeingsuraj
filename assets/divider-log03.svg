@@ -1,0 +1,40 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#39ff6a" stop-opacity="0"/>
+    <stop offset="12%" stop-color="#39ff6a" stop-opacity="0.8"/>
+    <stop offset="88%" stop-color="#39ff6a" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#39ff6a" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="g" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="1.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="50" fill="#020805"/>
+<circle cx="310.8" cy="34.3" r="0.78" fill="#39ff6a" opacity="0.16"/>
+<circle cx="222.9" cy="11.5" r="0.4" fill="#39ff6a" opacity="0.08"/>
+<circle cx="880.8" cy="6.5" r="0.67" fill="#39ff6a" opacity="0.08"/>
+<circle cx="353.6" cy="21.6" r="0.89" fill="#39ff6a" opacity="0.13"/>
+<circle cx="17.3" cy="13.8" r="0.4" fill="#39ff6a" opacity="0.16"/>
+<circle cx="971.7" cy="40.3" r="0.88" fill="#39ff6a" opacity="0.15"/>
+<circle cx="1139.2" cy="39.7" r="0.48" fill="#39ff6a" opacity="0.16"/>
+<circle cx="584.1" cy="37.8" r="0.69" fill="#39ff6a" opacity="0.11"/>
+<circle cx="437.0" cy="21.5" r="0.52" fill="#39ff6a" opacity="0.07"/>
+<circle cx="983.6" cy="39.9" r="0.99" fill="#39ff6a" opacity="0.14"/>
+<circle cx="665.1" cy="37.4" r="0.39" fill="#39ff6a" opacity="0.14"/>
+<circle cx="532.1" cy="8.8" r="0.44" fill="#39ff6a" opacity="0.12"/>
+<circle cx="304.0" cy="23.0" r="0.72" fill="#39ff6a" opacity="0.1"/>
+<circle cx="156.9" cy="24.5" r="0.46" fill="#39ff6a" opacity="0.08"/>
+<circle cx="233.4" cy="18.3" r="0.35" fill="#39ff6a" opacity="0.13"/>
+<circle cx="1144.4" cy="19.5" r="0.8" fill="#39ff6a" opacity="0.17"/>
+<circle cx="51.9" cy="7.1" r="0.86" fill="#39ff6a" opacity="0.16"/>
+<circle cx="766.9" cy="8.0" r="0.59" fill="#39ff6a" opacity="0.16"/>
+<circle cx="1063.4" cy="40.2" r="0.44" fill="#39ff6a" opacity="0.16"/>
+<circle cx="449.7" cy="35.8" r="0.4" fill="#39ff6a" opacity="0.18"/>
+<line x1="0" y1="25" x2="440" y2="25" stroke="url(#lineGrad)" stroke-width="1.4"/>
+<line x1="760" y1="25" x2="1200" y2="25" stroke="url(#lineGrad)" stroke-width="1.4"/>
+<rect x="574.0" y="10" width="52" height="14" fill="none" stroke="#ffb000" stroke-width="1.2" opacity="0.9"/>
+<text x="600.0" y="20.5" font-family="Consolas,Menlo,monospace" font-size="9.5" fill="#ffb000" text-anchor="middle" font-weight="700">MFD3</text>
+<text x="600.0" y="41" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="3.5" fill="#39ff6a" text-anchor="middle" opacity="0.9" filter="url(#g)">ACTIVE MISSIONS</text>
+</svg>
