@@ -1,171 +1,104 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=22&lines=BOOTING+TERMINAL...;LOADING+PROFILE%3A+sur4j;AUTH+OK;WELCOME%2C+ROOT." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00fff2&height=220&section=header&text=SURAJ%20KUMAR&fontSize=48&fontColor=00ff9f&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%E2%80%94%20Systems%20Builder&descAlignY=58&descColor=8be9fd&animation=fadeIn" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▓▓  TFT-DISPLAY v2.3   ::   PWR [●]   SIG [●]   SYNC [●]         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║   ███████╗██╗   ██╗██████╗ ██╗  ██╗                              ║
-║   ██╔════╝██║   ██║██╔══██╗██║  ██║                              ║
-║   ███████╗██║   ██║██████╔╝███████║                              ║
-║   ╚════██║██║   ██║██╔══██╗╚════██║                              ║
-║   ███████║╚██████╔╝██║  ██║     ██║                              ║
-║   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝     ╚═╝                              ║
-║                                                                    ║
-║   BACKEND ENGINEER // AI SYSTEMS // BUILDER                       ║
-║   [ROOT ACCESS]              [STATUS: BUILDING]                   ║
-║                                                                    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=00FF9F&center=true&vCenter=true&width=560&lines=building+backend+systems;engineering+AI+pipelines;breaking+things+on+purpose;then+fixing+them+properly." />
+
+<br/>
+
+[![Location](https://img.shields.io/badge/Chandigarh-India-00ff9f?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117)](https://github.com/notbeingsuraj)
+[![Org](https://img.shields.io/badge/The_Fables_Lab-thefableslab.com-8be9fd?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117)](https://www.thefableslab.com)
+[![Status](https://img.shields.io/badge/status-BUILDING-ff2e97?style=for-the-badge&labelColor=0d1117)](https://github.com/notbeingsuraj)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9f)](https://linkedin.com/in/surajprocode)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9f)](https://x.com/notbeingsuraj)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9f)](https://instagram.com/surajupadhyayx)
 
 </div>
 
-```diff
-root@sur4j:~$ env | grep SUR4J
-+ SUR4J_STATUS   = BUILDING
-+ SUR4J_FOCUS    = BACKEND + AI
-+ SUR4J_MODE     = ENGINEERING
-+ SUR4J_SIGNAL   = ACTIVE
+<br/>
+
+```ansi
+[0;32mroot@sur4j[0m:~$ whoami
+Third-year CSE student. Backend + AI engineer.
+More interested in what breaks than what demos well.
+
+[0;32mroot@sur4j[0m:~$ echo $FOCUS
+IDEA → ARCHITECTURE → BUILD → TEST → BREAK → DEBUG → SHIP
 ```
 
 <br/>
 
-### `> whoami`
+<div align="center">
 
-Third-year CSE student engineering backend systems, AI pipelines, and APIs that don't fall over the moment reality touches them. Less interested in the happy path — more interested in what breaks, and why.
+### ⚡ tech stack
 
-```
-IDEA → ARCHITECTURE → IMPLEMENTATION → TEST → BREAK → DEBUG → REFACTOR → SHIP
-```
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,nodejs,express,mongodb,git,github&theme=dark" />
 
-`BACKEND` `AI/LLM SYSTEMS` `SYSTEM DESIGN` `API ARCHITECTURE` `AUTOMATION` `TESTING`
-
-<br/>
-
-### `> ls -la ./stack`
-
-```
-lang/      javascript · typescript · python · java · c++ · sql
-backend/   node.js · express · rest-apis · llms · prompt-engineering
-eng/       git · github · testing · debugging · system-design · automation
-```
-
-<br/>
-
-### `> ls -la ./projects`
-
-```
-01  SITEFORGE     AI BUSINESS → WEBSITE ENGINEERING              [ACTIVE]
-02  FABLES_LAB    PRODUCTS → EXPERIMENTS → SYSTEMS                [ACTIVE]
-03  CAREFREE      IDEA → PRODUCT → SYSTEM → INTERFACE → USER      [ACTIVE]
-04  MONETRA       DATA → LOGIC → APPLICATION → EXPERIENCE         [ACTIVE]
-05  INPHASE       COMPONENTS → INTERFACES → STATE → LOGIC         [ACTIVE]
-```
-
-<details open>
-<summary><code>› cat 01_siteforge.md</code></summary>
-
-**SITEFORGE** — turns messy raw business data into structured website specs — without letting an LLM freelance on anything that matters.
-
-```
-BUSINESS INPUT → DATA EXTRACTION → BUSINESS INTELLIGENCE → BRAND DNA
-→ WEBSITE STRATEGY → LANDING PAGE SPEC → GENERATION → VALIDATION → DEPLOY
-```
-`business data extraction` `structured AI generation` `JSON validation` `fail-fast validation` `service boundaries` `pipeline testing`
-
-```
-# the real problem: making probabilistic AI
-# behave inside a deterministic pipeline
-```
-</details>
-
-<details>
-<summary><code>› cat 02_fables_lab.md</code></summary>
-An experimentation ground for ideas that deserve to escape the notes app before someone else builds them first.
-</details>
-
-<details>
-<summary><code>› cat 03_carefree.md</code></summary>
-Turning a concept into shippable software — not a demo that lives in a folder.
-</details>
-
-<details>
-<summary><code>› cat 04_monetra.md</code></summary>
-Product engineering centered on data, application logic, and usability.
-</details>
-
-<details>
-<summary><code>› cat 05_inphase.md</code></summary>
-How individual components resolve into one coherent product.
-</details>
-
-<br/>
-
-### `> cat ai_architecture.log`
-
-```
-INPUT → CONTEXT → PROMPT → MODEL → STRUCTURED OUTPUT
-→ PARSER → VALIDATOR → NORMALIZER → BUSINESS LOGIC → OUTPUT
-```
-```diff
-- LLM != DATABASE
-- LLM != VALIDATOR
-- LLM != SOURCE OF TRUTH
-+ AI is a component. Not the whole architecture.
-```
-
-<br/>
-
-### `> ./debug_system`
-
-```
-[BOOT] services ........... OK
-[BOOT] ai pipeline ......... OK
-[BOOT] validation .......... OK
-[TEST] running .............
-[WARN] unexpected output detected
-[DEBUG] input → state → boundary → assumptions
-[RESULT] bug in human code, not the model
-[FIX]  applied   [TEST] PASS   [SHIP] READY
-```
-
-<br/>
-
-### `> cat MANIFESTO.txt`
-
-```
-01 DESIGN BEFORE CODING       05 DON'T TRUST RAW AI OUTPUT
-02 VALIDATE ASSUMPTIONS       06 TEST THE EDGES, NOT THE MIDDLE
-03 EXPECT FAILURE             07 DEBUG ROOT CAUSE, NOT SYMPTOM
-04 KEEP SERVICES BOUNDED      08 SHIP WHAT ACTUALLY WORKS
-```
+</div>
 
 <br/>
 
 <table width="100%">
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=notbeingsuraj&show_icons=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_color=00FF41"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbeingsuraj&layout=compact&theme=dark&bg_color=000000&title_color=00FF41&text_color=C9D1D9&border_color=00FF41"/>
-</td>
-</tr>
+<tr><td>
+
+**backend / systems**
+`Node.js` `Express` `REST APIs` `MongoDB` `System Design` `Automation`
+
+</td></tr>
+<tr><td>
+
+**AI / LLM**
+`LLM Integration` `Prompt Engineering` `Structured Output` `Validation & Fallback Handling`
+
+</td></tr>
+<tr><td>
+
+**languages**
+`JavaScript` `TypeScript` `Python` `Java` `C++` `SQL`
+
+</td></tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=notbeingsuraj&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=6e7681&border=00FF41"/>
+<br/>
 
 <div align="center">
 
-```
-root@sur4j:~$ echo $STATUS
-BUILDING
+### 🗂 currently building
 
-root@sur4j:~$ ▮
+</div>
+
+| project | what it does | stack |
+|---|---|---|
+| ⚡ **[SiteForge](https://github.com/notbeingsuraj/SiteForge)** | AI pipeline that turns raw business/map data into a structured, validated website spec — with modular services and fallback handling so the LLM never freelances on facts | `JavaScript` `Node/Express` `MongoDB` `LLM` |
+| 🚗 **[CAR-e-Free](https://github.com/notbeingsuraj/CAR-e-Free)** | Real-time car rental platform for students & working professionals — free-km deals and offer logic | `JavaScript` |
+| 💸 **[Monetra](https://github.com/notbeingsuraj/Monetra)** | Tracks loans between friends and computes a repayment-based trust score | `Dart` |
+| 🌊 **[fables-flow](https://github.com/notbeingsuraj/fables-flow)** | Systems work under The Fables Lab | `TypeScript` |
+| 🌐 **[The-Fables-Lab-V1](https://github.com/notbeingsuraj/The-Fables-Lab-V1)** | Full revamp of The Fables Lab's site | `TypeScript` |
+
+<br/>
+
+```ansi
+[0;35m> cat manifesto.txt[0m
+01  design before coding        05  don't trust raw AI output
+02  validate every assumption   06  test the edges, not the middle
+03  expect failure              07  debug root cause, not symptom
+04  keep services bounded       08  ship what actually works
 ```
 
-**[github.com/notbeingsuraj](https://github.com/notbeingsuraj)**
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=notbeingsuraj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=8be9fd&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notbeingsuraj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=notbeingsuraj&theme=radical&hide_border=true&background=0d1117&stroke=00ff9f&ring=8be9fd&fire=ff2e97&currStreakLabel=00ff9f" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,100:0f0c29&height=110&section=footer&text=%20&fontSize=0" width="100%"/>
+
+**[github.com/notbeingsuraj](https://github.com/notbeingsuraj)** · Chandigarh, India
 
 </div>
