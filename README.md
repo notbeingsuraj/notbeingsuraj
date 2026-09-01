@@ -41,7 +41,7 @@
 ┌──────────────┬──────────────────────────────────────────────┬──────────┐
 │ MISSION      │ OBJECTIVE                                     │ PAYLOAD  │
 ├──────────────┼──────────────────────────────────────────────┼──────────┤
-│ SITEFORGE    │ raw business data → validated website spec    │ JS/Node  │
+│ Webloom    │ raw business data → validated website spec    │ JS/Node  │
 │              │ via AI pipeline w/ modular services            │ MongoDB  │
 ├──────────────┼──────────────────────────────────────────────┼──────────┤
 │ CAR-E-FREE   │ real-time car rental system, offer engine      │ JS       │
@@ -54,7 +54,7 @@
 └──────────────┴──────────────────────────────────────────────┴──────────┘
 ```
 
-**→** [SiteForge](https://github.com/notbeingsuraj/SiteForge) · [CAR-e-Free](https://github.com/notbeingsuraj/CAR-e-Free) · [Monetra](https://github.com/notbeingsuraj/Monetra) · [fables-flow](https://github.com/notbeingsuraj/fables-flow) · [Fables-Lab-V1](https://github.com/notbeingsuraj/The-Fables-Lab-V1)
+**→** [Webloom](https://github.com/notbeingsuraj/Webloom) · [CAR-e-Free](https://github.com/notbeingsuraj/CAR-e-Free) · [Monetra](https://github.com/notbeingsuraj/Monetra) · [fables-flow](https://github.com/notbeingsuraj/fables-flow) · [Fables-Lab-V1](https://github.com/notbeingsuraj/The-Fables-Lab-V1)
 
 <br/>
 
