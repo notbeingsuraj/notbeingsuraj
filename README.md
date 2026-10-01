@@ -1,65 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:240046,70:00E5FF,100:00FF9C&height=280&section=header&text=SURAJ%20KUMAR&fontSize=68&fontColor=FFFFFF&stroke=00FF9C&strokeWidth=1&fontAlignY=38&desc=%2F%2F%20BACKEND%20%C2%B7%20SYSTEMS%20%C2%B7%20AI%20%C2%B7%20PRODUCT%20ENGINEERING&descSize=16&descColor=00FF9C&descAlignY=58&animation=twinkling" width="100%" alt="Suraj Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F0D,100:1F3A2B&height=110&section=header" width="100%" alt="" />
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=860&height=50&lines=%3E+Backend+Engineer+in+Progress;%3E+Building+Systems%2C+Not+Just+Projects;%3E+MERN+%7C+Node.js+%7C+Java+%7C+AI;%3E+System+Design+%7C+Developer+Tools+%7C+Product+Engineering;%3E+Founder+%40+The+Fables+Lab" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=6FCF97&background=0E1511FF&center=true&vCenter=true&width=820&height=46&lines=%3E+Backend+Engineer+in+Progress;%3E+Building+Systems%2C+Not+Just+Projects;%3E+MERN+%7C+Node.js+%7C+Java+%7C+AI;%3E+System+Design+%7C+Developer+Tools+%7C+Product+Engineering;%3E+Founder+%40+The+Fables+Lab" alt="typing banner" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF9C?style=for-the-badge&labelColor=0A0A0F" alt="status" />
-<img src="https://img.shields.io/badge/BASE-CHANDIGARH%2C%20IN-00E5FF?style=for-the-badge&labelColor=0A0A0F" alt="location" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20SYSTEMS%20%2F%20AI-FF2E97?style=for-the-badge&labelColor=0A0A0F" alt="focus" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge&labelColor=0A0A0F" alt="views" />
 
 <br/><br/>
 
 <pre>
-███████╗██╗   ██╗██████╗  █████╗      ██╗
-██╔════╝██║   ██║██╔══██╗██╔══██╗     ██║
-███████╗██║   ██║██████╔╝███████║     ██║
-╚════██║██║   ██║██╔══██╗██╔══██║██   ██║
-███████║╚██████╔╝██║  ██║██║  ██║╚█████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
-  [ THE FABLES LAB // PRODUCT STUDIO ]
+╔════════════════════════════════════════════════════════════╗
+║ ┌────────────────────────────────────────────────────────┐ ║
+║ │ FABLESLAB-OS // TTY1                          [ LIVE ] │ ║
+║ │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ ║
+║ │                                                        │ ║
+║ │       ███████╗██╗   ██╗██████╗  █████╗      ██╗        │ ║
+║ │       ██╔════╝██║   ██║██╔══██╗██╔══██╗     ██║        │ ║
+║ │       ███████╗██║   ██║██████╔╝███████║     ██║        │ ║
+║ │       ╚════██║██║   ██║██╔══██╗██╔══██║██   ██║        │ ║
+║ │       ███████║╚██████╔╝██║  ██║██║  ██║╚█████╔╝        │ ║
+║ │       ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝         │ ║
+║ │                                                        │ ║
+║ │          [ THE FABLES LAB // PRODUCT STUDIO ]          │ ║
+║ │                                                        │ ║
+║ │ $ cat role.txt                                         │ ║
+║ │ > Software Engineer // CS Student // Chandigarh, IN    │ ║
+║ │                                                        │ ║
+║ │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ ║
+║ └────────────────────────────────────────────────────────┘ ║
+╚════════════════════════════════════════════════════════════╝
+                        ╔════════════╗
+              ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 </pre>
+
+<pre>
+suraj@fableslab:~$ echo "SURAJ KUMAR" | hexdump -C
+00000000  53 55 52 41 4a 20 4b 55  4d 41 52 0a              |SURAJ KUMAR.|
+0000000c
+</pre>
+
+<img src="https://img.shields.io/badge/PWR-ONLINE-5FB88A?style=flat-square&labelColor=111A15" alt="power" />
+<img src="https://img.shields.io/badge/NET-CONNECTED-5FB88A?style=flat-square&labelColor=111A15" alt="network" />
+<img src="https://img.shields.io/badge/BUILD-ACTIVE-C9A24D?style=flat-square&labelColor=111A15" alt="build" />
+<img src="https://img.shields.io/badge/LOC-CHANDIGARH%2C%20IN-4B5A52?style=flat-square&labelColor=111A15" alt="location" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITS&color=5FB88A&style=flat-square&labelColor=111A15" alt="visits" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00E5FF,100:FF2E97&height=3&section=header" width="100%" alt="divider" />
+<br/>
 
 <!-- ============================ 00 / SYSTEM STATUS ============================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=00%20%2F%2F%20SYSTEM%20STATUS&fontSize=16&fontColor=0A0A0F" width="100%" alt="00 system status" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2000%20%5D%20SYSTEM%20STATUS&fontSize=15&fontColor=6FCF97" width="100%" alt="00 system status" />
 
 <br/>
 
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║ ● ● ●                 suraj@fableslab: ~                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                        SYSTEM ONLINE                         ║
-╟──────────────────────────────────────────────────────────────╢
-║ USER       : SURAJ KUMAR                                     ║
-║ ROLE       : COMPUTER SCIENCE STUDENT / SOFTWARE ENGINEER    ║
-║ LOCATION   : CHANDIGARH, INDIA                               ║
-║ FOCUS      : BACKEND / SYSTEMS / AI                          ║
-║ STUDIO     : THE FABLES LAB                                  ║
-║ STATUS     : BUILDING                                        ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=1200&color=6FCF97&background=0E1511FF&width=780&height=170&multiline=true&repeat=false&lines=%5B+OK+%5D+mounting+%2Fdev%2Ffableslab;%5B+OK+%5D+runtime%3A+java+js+ts+python+c%2B%2B+rust;%5B+OK+%5D+services%3A+node+express+mongodb+postgres+redis;%5B+OK+%5D+clients%3A+react+next+flutter;%5B+..+%5D+awaiting+input_" alt="boot log" />
+
+<br/><br/>
 
 <pre>
-[  OK  ] runtime loaded ........ Java · JavaScript · TypeScript · Python · C++ · Rust
-[  OK  ] services online ....... Node.js · Express · MongoDB · PostgreSQL · Redis
-[  OK  ] clients attached ...... React · Next.js · Vite · Flutter
-[  OK  ] toolchain ready ....... Git · Docker · Linux · Vercel · Postman · Figma
-[ WAIT ] module loading ........ Distributed Systems
-[ WAIT ] module loading ........ Advanced Cloud Architecture
-[  ..  ] awaiting input _
+┌─[ SYSTEM ONLINE ]──────────────────────────────────────────────┐
+│ USER      : SURAJ KUMAR                                        │
+│ ROLE      : COMPUTER SCIENCE STUDENT / SOFTWARE ENGINEER       │
+│ LOCATION  : CHANDIGARH, INDIA                                  │
+│ FOCUS     : BACKEND / SYSTEMS / AI                             │
+│ STUDIO    : THE FABLES LAB                                     │
+│ STATUS    : BUILDING                                           │
+└────────────────────────────────────────────────────────────────┘
 </pre>
 
 </div>
@@ -67,58 +77,56 @@
 <!-- ============================ 01 / WHOAMI ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=01%20%2F%2F%20WHOAMI&fontSize=16&fontColor=0A0A0F" width="100%" alt="01 whoami" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2001%20%5D%20WHOAMI&fontSize=15&fontColor=6FCF97" width="100%" alt="01 whoami" />
 </div>
 
 <pre>
 suraj@fableslab:~$ whoami
-&gt; Computer science student and software engineer based in Chandigarh.
-&gt; Works across the stack with a bias toward backend architecture,
-&gt; data pipelines, and AI-integrated products.
-&gt; Founder of The Fables Lab, a product studio shipping MVPs and AI applications.
+&gt; Computer science student, software engineer, Chandigarh.
+&gt; Mostly backend: APIs, auth, data models, pipelines.
+&gt; Currently pushing deeper into system design and AI engineering.
+&gt; Running The Fables Lab, a small product studio.
 
-suraj@fableslab:~$ cat principles.txt
-&gt; Design the data model before the endpoint.
-&gt; Validate AI output. Never trust it by default.
-&gt; Prefer evidence and provenance over assumptions.
-&gt; Ship small, instrument everything, iterate.
+suraj@fableslab:~$ cat rules.txt
+&gt; Model the data before writing the endpoint.
+&gt; Treat AI output as untrusted input.
+&gt; Keep provenance. Know where every field came from.
+&gt; Ship small, then iterate.
 </pre>
 
-<!-- ============================ 02 / STACK ============================ -->
+<!-- ============================ 02 / TECH STACK ============================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=02%20%2F%2F%20TECH%20STACK&fontSize=16&fontColor=0A0A0F" width="100%" alt="02 tech stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2002%20%5D%20TECH%20STACK&fontSize=15&fontColor=6FCF97" width="100%" alt="02 tech stack" />
 
 <br/>
 
 <table>
   <tr>
-    <td align="center" width="150"><b><code>LANGUAGES</code></b></td>
+    <td align="right" width="150"><code>LANGUAGES</code></td>
     <td><img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,rust&theme=dark" alt="languages" /></td>
   </tr>
   <tr>
-    <td align="center"><b><code>BACKEND</code></b></td>
+    <td align="right"><code>BACKEND</code></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" alt="backend" /><br/>
-      <sub><code>REST APIs</code> · <code>JWT</code> · <code>Authentication</code> · <code>API Architecture</code></sub>
+      <sub><code>REST APIs</code> · <code>JWT</code> · <code>Authentication</code> · <code>API architecture</code></sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b><code>FRONTEND</code></b></td>
+    <td align="right"><code>FRONTEND</code></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="frontend" /></td>
   </tr>
   <tr>
-    <td align="center"><b><code>MOBILE</code></b></td>
+    <td align="right"><code>MOBILE</code></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="mobile" /><br/>
       <sub><code>Riverpod</code> · <code>Dio</code></sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b><code>TOOLS / INFRA</code></b></td>
+    <td align="right"><code>TOOLS / INFRA</code></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,figma,linux&theme=dark" alt="tools" /></td>
   </tr>
 </table>
@@ -128,247 +136,205 @@ suraj@fableslab:~$ cat principles.txt
 <!-- ============================ 03 / ENGINEERING FOCUS ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=03%20%2F%2F%20ENGINEERING%20FOCUS&fontSize=16&fontColor=0A0A0F" width="100%" alt="03 engineering focus" />
-
-<br/>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/01-BACKEND-00FF9C?style=flat-square&labelColor=0A0A0F" alt="01" /><br/>
-      <sub>API architecture, auth flows, token lifecycle, rate limiting, data modeling.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/02-SYSTEM%20DESIGN-00E5FF?style=flat-square&labelColor=0A0A0F" alt="02" /><br/>
-      <sub>Scalable architecture, service boundaries, caching strategy, failure modes.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/03-AI%20ENGINEERING-FF2E97?style=flat-square&labelColor=0A0A0F" alt="03" /><br/>
-      <sub>Provider abstraction, structured extraction, hallucination rejection.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/04-DEV%20TOOLS-A855F7?style=flat-square&labelColor=0A0A0F" alt="04" /><br/>
-      <sub>Automation and pipelines that remove friction from building and shipping.</sub>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/05-PRODUCT%20ENG-00FF9C?style=flat-square&labelColor=0A0A0F" alt="05" /><br/>
-      <sub>Investor-ready MVPs built on clean, maintainable foundations.</sub>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/06-DISTRIBUTED-00E5FF?style=flat-square&labelColor=0A0A0F" alt="06" /><br/>
-      <sub>Consistency, concurrency, and reliability trade-offs at scale.</sub>
-    </td>
-  </tr>
-</table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2003%20%5D%20ENGINEERING%20FOCUS&fontSize=15&fontColor=6FCF97" width="100%" alt="03 engineering focus" />
 </div>
+
+<pre>
+suraj@fableslab:~$ ps --modules
+
+ID  MODULE                  STATE     SCOPE
+01  backend-engineering     RUNNING   APIs, auth flows, rate limiting, data modeling
+02  system-design           RUNNING   service boundaries, caching, failure modes
+03  ai-engineering          RUNNING   provider abstraction, structured extraction, output validation
+04  developer-tools         RUNNING   automation and tooling that removes friction
+05  product-engineering     RUNNING   MVPs on maintainable foundations
+06  distributed-systems     LOADING   consistency, concurrency, reliability trade-offs
+</pre>
 
 <!-- ============================ 04 / PROJECTS ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=04%20%2F%2F%20FEATURED%20PROJECTS&fontSize=16&fontColor=0A0A0F" width="100%" alt="04 featured projects" />
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:00FF9C&height=34&section=header&text=WEBLOOM&fontSize=16&fontColor=FFFFFF&fontAlign=15" width="100%" alt="Webloom" />
-      <br/>
-      <img src="https://img.shields.io/badge/AI%20PIPELINE-00FF9C?style=flat-square&labelColor=0A0A0F" alt="ai pipeline" /><br/>
-      <sub>Business intelligence and website-generation pipeline. Takes a Google Maps URL and produces a validated, evidence-backed landing page specification.</sub>
-      <br/><br/>
-      <sub>
-        <code>Provider architecture</code> · <code>Data provenance</code> · <code>Confidence scoring</code> · <code>Hallucination rejection</code> · <code>Evidence models</code>
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,mongodb&theme=dark" alt="webloom stack" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:A855F7&height=34&section=header&text=THE%20FABLES%20LAB&fontSize=16&fontColor=FFFFFF&fontAlign=22" width="100%" alt="The Fables Lab" />
-      <br/>
-      <img src="https://img.shields.io/badge/PRODUCT%20STUDIO-A855F7?style=flat-square&labelColor=0A0A0F" alt="product studio" /><br/>
-      <sub><i>"Where Ancient Stories Meet Future Tech."</i><br/>Product studio building investor-ready MVPs, software products, AI-powered applications, and modern web apps.</sub>
-      <br/><br/>
-      <sub>
-        <code>Product development</code> · <code>MVPs</code> · <code>AI applications</code> · <code>Web apps</code>
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,figma&theme=dark" alt="fables stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:FF2E97&height=34&section=header&text=MONETRA&fontSize=16&fontColor=FFFFFF&fontAlign=15" width="100%" alt="Monetra" />
-      <br/>
-      <img src="https://img.shields.io/badge/FLUTTER%20%C2%B7%20P2P%20LENDING-FF2E97?style=flat-square&labelColor=0A0A0F" alt="p2p lending" /><br/>
-      <sub>Flutter peer-to-peer lending application backed by a security-first API.</sub>
-      <br/><br/>
-      <sub>
-        <code>JWT</code> · <code>Refresh tokens</code> · <code>Secure storage</code> · <code>Rate limiting</code> · <code>Fraud detection</code>
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,ts,mongodb&theme=dark" alt="monetra stack" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:00E5FF&height=34&section=header&text=CAREFREE&fontSize=16&fontColor=FFFFFF&fontAlign=15" width="100%" alt="Carefree" />
-      <br/>
-      <img src="https://img.shields.io/badge/MERN%20%C2%B7%20CAR%20RENTAL-00E5FF?style=flat-square&labelColor=0A0A0F" alt="car rental" /><br/>
-      <sub>MERN-based car rental platform with a REST API backend and a React client.</sub>
-      <br/><br/>
-      <sub>
-        <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code>
-      </sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="carefree stack" />
-    </td>
-  </tr>
-</table>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2004%20%5D%20FEATURED%20PROJECTS&fontSize=15&fontColor=6FCF97" width="100%" alt="04 featured projects" />
 </div>
+
+<pre>
+┌─[ ./webloom ]───────────────────────────────────────────────
+│ type      AI business-intelligence and website-generation pipeline
+│ input     Google Maps URL
+│ output    landing page specification
+│ core      provider abstraction · data provenance · confidence scoring
+│           hallucination rejection · evidence-driven enrichment
+└─────────────────────────────────────────────────────────────
+</pre>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,mongodb&theme=dark" alt="webloom stack" />
+<img src="https://img.shields.io/badge/Geoapify-111A15?style=for-the-badge&labelColor=111A15&color=2F6B4A" alt="Geoapify" />
+
+<br/><br/>
+
+<pre>
+┌─[ ./the-fables-lab ]────────────────────────────────────────
+│ type      product studio
+│ tagline   "Where Ancient Stories Meet Future Tech."
+│ focus     investor-ready MVPs · software products
+│           AI-powered applications · modern web applications
+└─────────────────────────────────────────────────────────────
+</pre>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,figma&theme=dark" alt="fables lab stack" />
+
+<br/><br/>
+
+<pre>
+┌─[ ./monetra ]───────────────────────────────────────────────
+│ type      peer-to-peer lending application
+│ client    Flutter · Riverpod · Dio · secure storage
+│ server    Node.js · Express · TypeScript · MongoDB
+│ security  JWT + refresh tokens · rate limiting · fraud detection
+└─────────────────────────────────────────────────────────────
+</pre>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,ts,mongodb&theme=dark" alt="monetra stack" />
+
+<br/><br/>
+
+<pre>
+┌─[ ./carefree ]──────────────────────────────────────────────
+│ type      car rental platform
+│ stack     MongoDB · Express · React · Node.js
+│ shape     React client over a REST API
+└─────────────────────────────────────────────────────────────
+</pre>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="carefree stack" />
 
 <!-- ============================ 05 / WEBLOOM ARCHITECTURE ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=05%20%2F%2F%20WEBLOOM%20ARCHITECTURE&fontSize=16&fontColor=0A0A0F" width="100%" alt="05 webloom architecture" />
-
-<br/>
-
-<pre>
-╔════════════════════════════════════════════════════════════════╗
-║                   WEBLOOM  ::  PIPELINE v1                     ║
-╚════════════════════════════════════════════════════════════════╝
-
-   ┌────────────────────────────┐
-   │ INPUT :: Google Maps URL   │
-   └─────────────┬──────────────┘
-                 ▼
-   ┌────────────────────────────┐
-   │ 01  Business Discovery     │
-   └─────────────┬──────────────┘
-                 ▼
-   ┌────────────────────────────┐
-   │ 02  Structured Extraction  │
-   └─────────────┬──────────────┘
-                 ▼
-   ┌────────────────────────────┐        ┌────────────────────────┐
-   │ 03  Evidence Validation    │◄───────┤ EVIDENCE GATE          │
-   └─────────────┬──────────────┘        │ unsupported claims     │
-                 ▼                       │ are rejected           │
-   ┌────────────────────────────┐        └────────────────────────┘
-   │ 04  AI Enrichment          │◄───────┐ PROVIDER ABSTRACTION
-   └─────────────┬──────────────┘        │ swappable AI backends
-                 ▼                       └────────────────────────
-   ┌────────────────────────────┐
-   │ 05  Brand Intelligence     │
-   └─────────────┬──────────────┘
-                 ▼
-   ┌────────────────────────────┐
-   │ 06  Website Strategy       │
-   └─────────────┬──────────────┘
-                 ▼
-   ┌────────────────────────────┐
-   │ OUTPUT :: Landing Page Spec│
-   └────────────────────────────┘
-
-   ──────────────────────────────────────────────────────────────
-    provenance  : tracked per field
-    confidence  : scored per claim
-    hallucination guard : evidence-gated
-   ──────────────────────────────────────────────────────────────
-</pre>
-
-<br/>
-
-<pre>
-MONETRA :: REQUEST PATH (SIMPLIFIED)
-
- [ Flutter + Riverpod ]
-          │  Dio
-          ▼
- [ Express API  (TypeScript) ]
-          │  rate limiting · JWT + refresh tokens · fraud detection
-          ▼
- [ MongoDB ]
-
- device side: secure storage for tokens
-</pre>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2005%20%5D%20WEBLOOM%20ARCHITECTURE&fontSize=15&fontColor=6FCF97" width="100%" alt="05 webloom architecture" />
 </div>
+
+<pre>
+suraj@fableslab:~$ cat webloom/pipeline.txt
+
+   ┌────────────────────────────────┐
+   │ IN   Google Maps URL           │
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 01  Business Discovery         │
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 02  Structured Extraction      │
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 03  Evidence Validation        │   ◄── evidence gate: unsupported claims are rejected
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 04  AI Enrichment              │   ◄── provider abstraction: swappable AI backends
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 05  Brand Intelligence         │
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ 06  Website Strategy           │
+   └────────────────┬───────────────┘
+                    │
+                    ▼
+   ┌────────────────┴───────────────┐
+   │ OUT Landing Page Specification │
+   └────────────────────────────────┘
+
+   provenance  : tracked per field
+   confidence  : scored per claim
+   guard       : evidence-gated, hallucinations rejected
+</pre>
+
+<pre>
+suraj@fableslab:~$ cat monetra/request-path.txt
+
+   [ Flutter + Riverpod ] ── device: secure storage for tokens
+             │
+             │ Dio
+             ▼
+   [ Express API (TypeScript) ]
+             │ rate limiting · JWT + refresh tokens · fraud detection
+             ▼
+   [ MongoDB ]
+</pre>
 
 <!-- ============================ 06 / INTERESTS ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=06%20%2F%2F%20ENGINEERING%20INTERESTS&fontSize=16&fontColor=0A0A0F" width="100%" alt="06 engineering interests" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2006%20%5D%20ENGINEERING%20INTERESTS&fontSize=15&fontColor=6FCF97" width="100%" alt="06 engineering interests" />
+</div>
 
 <pre>
-[engineering]
-backend_architecture   = true
-system_design          = true
-distributed_systems    = exploring
-ai_engineering         = true
-developer_tools        = true
-product_engineering    = true
+suraj@fableslab:~$ cat interests.conf
 
-[principles]
-data_provenance        = required
-confidence_scoring     = required
-ai_output_validation   = required
+[interests]
+backend_engineering   = primary
+system_design         = active
+ai_engineering        = active
+developer_tools       = active
+product_engineering   = active
+distributed_systems   = next
+
+[constraints]
+ai_output             = untrusted until validated
+every_field           = carries provenance
+every_claim           = carries a confidence score
 </pre>
-
-</div>
 
 <!-- ============================ 07 / LEARNING ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=07%20%2F%2F%20CURRENT%20LEARNING&fontSize=16&fontColor=0A0A0F" width="100%" alt="07 current learning" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/ADVANCED%20BACKEND-00FF9C?style=for-the-badge&labelColor=0A0A0F" alt="advanced backend" />
-<img src="https://img.shields.io/badge/DSA%20WITH%20JAVA-00E5FF?style=for-the-badge&labelColor=0A0A0F" alt="dsa java" />
-<img src="https://img.shields.io/badge/DBMS-A855F7?style=for-the-badge&labelColor=0A0A0F" alt="dbms" />
-<br/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-FF2E97?style=for-the-badge&labelColor=0A0A0F" alt="system design" />
-<img src="https://img.shields.io/badge/DEVOPS-00FF9C?style=for-the-badge&labelColor=0A0A0F" alt="devops" />
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-00E5FF?style=for-the-badge&labelColor=0A0A0F" alt="ai engineering" />
-<br/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-A855F7?style=for-the-badge&labelColor=0A0A0F" alt="distributed systems" />
-<img src="https://img.shields.io/badge/SCALABLE%20ARCHITECTURE-FF2E97?style=for-the-badge&labelColor=0A0A0F" alt="scalable architecture" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2007%20%5D%20CURRENT%20LEARNING&fontSize=15&fontColor=6FCF97" width="100%" alt="07 current learning" />
 </div>
+
+<pre>
+suraj@fableslab:~$ systemctl list-units --learning
+
+UNIT                          STATE
+advanced-backend.service      active (running)
+dsa-java.service              active (running)
+dbms.service                  active (running)
+system-design.service         active (running)
+devops.service                active (running)
+ai-engineering.service        active (running)
+distributed-systems.service   activating
+scalable-architecture.service activating
+</pre>
 
 <!-- ============================ 08 / GITHUB TELEMETRY ============================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=08%20%2F%2F%20GITHUB%20TELEMETRY&fontSize=16&fontColor=0A0A0F" width="100%" alt="08 github telemetry" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2008%20%5D%20GITHUB%20TELEMETRY&fontSize=15&fontColor=6FCF97" width="100%" alt="08 github telemetry" />
 
 <br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0A0A0F&title_color=00FF9C&icon_color=00E5FF&text_color=C9D1D9&border_color=1F2937&border_radius=8&rank_icon=github" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=false&bg_color=0A0A0F&title_color=00FF9C&text_color=C9D1D9&border_color=1F2937&border_radius=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0B0F0D&title_color=6FCF97&icon_color=6FCF97&text_color=B5C4BB&border_color=1E2B24&border_radius=4&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=false&bg_color=0B0F0D&title_color=6FCF97&text_color=B5C4BB&border_color=1E2B24&border_radius=4" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0A0A0F&ring=00FF9C&fire=FF2E97&currStreakLabel=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=1F2937&border=1F2937&border_radius=8" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=0B0F0D&ring=6FCF97&fire=C9A24D&currStreakLabel=6FCF97&currStreakNum=D6E2DA&sideNums=D6E2DA&sideLabels=7C8C83&dates=5F6F66&stroke=1E2B24&border=1E2B24&border_radius=4" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0A0A0F&color=00FF9C&line=00E5FF&point=FF2E97&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B0F0D&color=6FCF97&line=6FCF97&point=D6E2DA&area=true&area_color=6FCF97&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -376,7 +342,7 @@ ai_output_validation   = required
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=09%20%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=16&fontColor=0A0A0F" width="100%" alt="09 contribution snake" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2009%20%5D%20CONTRIBUTION%20SNAKE&fontSize=15&fontColor=6FCF97" width="100%" alt="09 contribution snake" />
 
 <br/>
 
@@ -406,7 +372,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=00FF9C&color_dots=161b22,0b3d2a,0a7a50,00c27a,00FF9C
+          outputs: dist/snake.svg?color_snake=6FCF97&color_dots=151C18,1F3A2B,2F6B4A,4A9B6E,6FCF97
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -418,61 +384,65 @@ jobs:
 <!-- ============================ 10 / ROADMAP ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=10%20%2F%2F%20DEVELOPER%20ROADMAP&fontSize=16&fontColor=0A0A0F" width="100%" alt="10 developer roadmap" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2010%20%5D%20DEVELOPER%20ROADMAP&fontSize=15&fontColor=6FCF97" width="100%" alt="10 developer roadmap" />
+</div>
 
 <pre>
-╔════════════════════════════════════════════════════════════╗
-║                     DEVELOPER ROADMAP                      ║
-╚════════════════════════════════════════════════════════════╝
+suraj@fableslab:~$ cat roadmap.txt
 
- COMPLETED
- ───────────────────────────────────────────
- [✓] JavaScript
- [✓] MERN
- [✓] Node.js / Express
- [✓] REST APIs
- [✓] Flutter
- [✓] MongoDB
- [✓] Production-style applications
- [✓] Product development
-
- IN PROGRESS
- ───────────────────────────────────────────
- [&gt;] Advanced Backend Engineering
- [&gt;] DSA with Java
- [&gt;] DBMS
- [&gt;] System Design
- [&gt;] DevOps
- [&gt;] AI Engineering
-
- NEXT
- ───────────────────────────────────────────
- [ ] Distributed Systems
- [ ] Advanced Cloud Architecture
- [ ] Open Source Contributions
- [ ] Production-scale Systems
- [ ] Developer Infrastructure
- [ ] Products with Real Users
+┌─[ ROADMAP ]
+│
+├─ COMPLETED
+│    [✓] JavaScript
+│    [✓] MERN
+│    [✓] Node.js / Express
+│    [✓] REST APIs
+│    [✓] Flutter
+│    [✓] MongoDB
+│    [✓] Production-style applications
+│    [✓] Product development
+│
+├─ IN PROGRESS
+│    [&gt;] Advanced Backend Engineering
+│    [&gt;] DSA with Java
+│    [&gt;] DBMS
+│    [&gt;] System Design
+│    [&gt;] DevOps
+│    [&gt;] AI Engineering
+│
+└─ NEXT
+     [ ] Distributed Systems
+     [ ] Advanced Cloud Architecture
+     [ ] Open Source Contributions
+     [ ] Production-scale Systems
+     [ ] Developer Infrastructure
+     [ ] Products with Real Users
 </pre>
-
-</div>
 
 <!-- ============================ 11 / TERMINAL ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=11%20%2F%2F%20TERMINAL&fontSize=16&fontColor=0A0A0F" width="100%" alt="11 terminal" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2011%20%5D%20TERMINAL&fontSize=15&fontColor=6FCF97" width="100%" alt="11 terminal" />
+</div>
 
 <pre>
+suraj@fableslab:~$ neofetch
+
+┌───────────┐    suraj@fableslab
+│ &gt; _       │    ──────────────────────────────
+│           │    role      Software Engineer, CS student
+│  S . K    │    location  Chandigarh, India
+└─────┬─────┘    langs     Java · JS · TS · Python · C++ · Rust
+    ──┴──        backend   Node.js · Express · MongoDB · PostgreSQL · Redis
+                 frontend  React · Next.js · Vite · Tailwind
+                 mobile    Flutter · Dart · Riverpod · Dio
+                 tools     Git · Docker · Linux · Vercel · Postman · Figma
+                 studio    The Fables Lab
+
 suraj@fableslab:~$ git log --oneline --focus
-&gt; a1f3c9e  design data model before endpoint
-&gt; 7b2d4a0  reject AI output without evidence
-&gt; 4c9e1f8  ship the MVP, instrument everything
+&gt; a1f3c9e  model the data before the endpoint
+&gt; 7b2d4a0  reject AI output that has no evidence
+&gt; 4c9e1f8  ship the MVP, measure, iterate
 &gt; 0e5a7d3  learn the next layer of the stack
 
 suraj@fableslab:~$ ./next --queue
@@ -482,24 +452,22 @@ suraj@fableslab:~$ ./next --queue
 &gt; real users ................. queued
 </pre>
 
-</div>
-
-<!-- ============================ 12 / CONTACT ============================ -->
+<!-- ============================ 12 / OPEN CHANNEL ============================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:00E5FF&height=36&section=header&text=12%20%2F%2F%20OPEN%20CHANNEL&fontSize=16&fontColor=0A0A0F" width="100%" alt="12 open channel" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111A15,100:0B0F0D&height=34&section=header&text=%5B%2012%20%5D%20OPEN%20CHANNEL&fontSize=15&fontColor=6FCF97" width="100%" alt="12 open channel" />
 
 <br/>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0A0A0F&color=00FF9C" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-YOUR__EMAIL-111A15?style=flat-square&logo=gmail&logoColor=6FCF97&labelColor=111A15&color=2F6B4A" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-YOUR__LINKEDIN-111A15?style=flat-square&logo=linkedin&logoColor=6FCF97&labelColor=111A15&color=2F6B4A" alt="LinkedIn" />
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0A0A0F&color=FF2E97" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-111A15?style=flat-square&logo=github&logoColor=6FCF97&labelColor=111A15&color=2F6B4A" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -515,24 +483,22 @@ suraj@fableslab:~$ ./next --queue
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,50:00E5FF,100:FF2E97&height=3&section=header" width="100%" alt="divider" />
-
-<!-- ============================ 13 / FINAL TRANSMISSION ============================ -->
+<!-- ============================ FINAL TRANSMISSION ============================ -->
 
 <div align="center">
 
 <pre>
-suraj@fableslab:~$ echo "transmission complete"
-&gt; transmission complete
-suraj@fableslab:~$ status --current
-&gt; BUILDING. SHIPPING. LEARNING.
+suraj@fableslab:~$ echo "session closed"
+&gt; session closed
+suraj@fableslab:~$ ./build --continue
+&gt; build continues
 suraj@fableslab:~$ _
 </pre>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=00E5FF&background=00000000&center=true&vCenter=true&width=560&height=32&lines=Where+Ancient+Stories+Meet+Future+Tech.;connection+closed.+build+continues." alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3800&pause=1500&color=6FCF97&background=0E1511FF&center=true&vCenter=true&width=560&height=36&lines=Where+Ancient+Stories+Meet+Future+Tech.;connection+closed.+build+continues." alt="closing line" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,35:00E5FF,70:240046,100:0A0A0F&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A2B,100:0B0F0D&height=100&section=footer" width="100%" alt="" />
 
 </div>
