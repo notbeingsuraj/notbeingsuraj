@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 190" width="490" height="190" role="img" aria-label="Next build loading — classified">
+<defs><filter id="gr" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="cr"><path d="M0 0H468L490 22V190H22L0 168Z"/></clipPath></defs>
+<path d="M2 2H466L488 24V188H24L2 166Z" fill="#07070f" stroke="#FFE600" stroke-width="2" stroke-dasharray="10 6" filter="url(#gr)"><animate attributeName="stroke-dashoffset" values="0;-32" dur="1.2s" repeatCount="indefinite"/></path>
+<g clip-path="url(#cr)" font-family="'JetBrains Mono','Fira Code','SF Mono','Consolas','Courier New',monospace">
+<text x="26" y="38" font-size="12" fill="#6b7a90" letter-spacing="2">06 //</text>
+<text x="84" y="40" font-size="21" font-weight="800" letter-spacing="2" fill="#FFE600" filter="url(#gr)">██████████<animate attributeName="opacity" values="1;1;.3;1;.6;1" keyTimes="0;.6;.62;.64;.66;1" dur="3s" repeatCount="indefinite"/></text>
+<text x="26" y="64" font-size="12" fill="#FF2A6D" letter-spacing="1">&gt; classified. shipping soon.</text>
+<text x="26" y="92" font-size="13" fill="#C7D6E6">Something dangerous is compiling. Watch the</text>
+<text x="26" y="112" font-size="13" fill="#C7D6E6">commit graph.</text>
+<rect x="26" y="140" width="438" height="12" rx="2" fill="none" stroke="#FFE600" stroke-opacity=".7"/>
+<rect x="29" y="143" width="0" height="6" fill="#FFE600" filter="url(#gr)"><animate attributeName="width" values="0;432;432;0" keyTimes="0;.8;.92;1" dur="6s" repeatCount="indefinite"/></rect>
+<text x="26" y="172" font-size="11" fill="#FFE600" letter-spacing="2">LOADING NEXT BUILD...<animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></text>
+</g></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 190" width="490" height="190" role="img" aria-label="THE FABLES LAB — products → experiments → systems">
+<defs><filter id="gc" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cc"><path d="M0 0H468L490 22V190H22L0 168Z"/></clipPath>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2A6D" stop-opacity="0"/><stop offset=".5" stop-color="#FF2A6D" stop-opacity=".28"/><stop offset="1" stop-color="#FF2A6D" stop-opacity="0"/></linearGradient></defs>
+<path d="M2 2H466L488 24V188H24L2 166Z" fill="#07070f" stroke="#FF2A6D" stroke-width="2" filter="url(#gc)"><animate attributeName="stroke-opacity" values="1;.4;1" dur="3.4s" repeatCount="indefinite"/></path>
+<g clip-path="url(#cc)">
+<rect x="-120" y="0" width="120" height="190" fill="url(#sw)"><animate attributeName="x" values="-120;490" dur="4.5s" repeatCount="indefinite"/></rect>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono','Consolas','Courier New',monospace">
+<text x="26" y="38" font-size="12" fill="#6b7a90" letter-spacing="2">02 //</text>
+<text x="84" y="40" font-size="21" font-weight="800" letter-spacing="2" fill="#FF2A6D" filter="url(#gc)">THE FABLES LAB</text>
+<circle cx="390" cy="36" r="4" fill="#00FF41" filter="url(#gc)"><animate attributeName="opacity" values="1;.15;1" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="400" y="40" font-size="11" fill="#00FF41" letter-spacing="1">TYPESCRIPT</text>
+<text x="26" y="64" font-size="12" fill="#FF2A6D" letter-spacing="1">&gt; products → experiments → systems</text>
+<text x="26" y="88" font-size="13" fill="#C7D6E6">An experimentation ground for ideas that deserve to</text><text x="26" y="108" font-size="13" fill="#C7D6E6">escape the notes app before someone else builds them</text><text x="26" y="128" font-size="13" fill="#C7D6E6">first.</text><rect x="26" y="150" width="77" height="22" rx="3" fill="#FF2A6D" fill-opacity=".1" stroke="#FF2A6D" stroke-opacity=".8"/><text x="65" y="165" font-size="11" fill="#FF2A6D" text-anchor="middle">PRODUCTS</text><rect x="111.2" y="150" width="99" height="22" rx="3" fill="#FF2A6D" fill-opacity=".1" stroke="#FF2A6D" stroke-opacity=".8"/><text x="161" y="165" font-size="11" fill="#FF2A6D" text-anchor="middle">EXPERIMENTS</text><rect x="218.60000000000002" y="150" width="70" height="22" rx="3" fill="#FF2A6D" fill-opacity=".1" stroke="#FF2A6D" stroke-opacity=".8"/><text x="254" y="165" font-size="11" fill="#FF2A6D" text-anchor="middle">SYSTEMS</text>
+</g></g>
+</svg>

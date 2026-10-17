@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 20" width="1000" height="20" role="presentation" aria-hidden="true">
+<defs><filter id="gd" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="seg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2A6D" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2A6D" stop-opacity="0"/><stop offset=".2" stop-color="#B026FF" stop-opacity=".7"/><stop offset=".8" stop-color="#00F0FF" stop-opacity=".7"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="9" width="1000" height="2" fill="url(#base)"/>
+<rect x="-220" y="8" width="220" height="4" rx="2" fill="url(#seg)" filter="url(#gd)"><animate attributeName="x" values="-220;1000" dur="2.8s" repeatCount="indefinite"/></rect>
+<g fill="#00F0FF" filter="url(#gd)"><path d="M500 2l8 8-8 8-8-8z"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></path></g>
+<g fill="#FF2A6D"><path d="M470 7l3 3-3 3-3-3z"/><path d="M530 7l3 3-3 3-3-3z"/></g>
+</svg>

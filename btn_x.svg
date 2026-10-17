@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 52" width="232" height="52" role="img" aria-label="X // TWITTER @notbeingsuraj">
+<defs><filter id="gb" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M2 2H218L230 14V50H14L2 38Z" fill="#FF2A6D" fill-opacity=".07" stroke="#FF2A6D" stroke-width="2" filter="url(#gb)"><animate attributeName="stroke-opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></path>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono','Consolas','Courier New',monospace"><text x="22" y="22" font-size="10" fill="#FF2A6D" letter-spacing="3" opacity=".9">X // TWITTER</text>
+<text x="22" y="40" font-size="14" font-weight="700" fill="#EAF6FF">@notbeingsuraj</text></g>
+<rect x="198" y="22" width="8" height="8" fill="#FF2A6D"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>

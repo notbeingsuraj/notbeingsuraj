@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 52" width="232" height="52" role="img" aria-label="INSTAGRAM @surajupadhyayx">
+<defs><filter id="gb" x="-30%" y="-60%" width="160%" height="220%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M2 2H218L230 14V50H14L2 38Z" fill="#00FF41" fill-opacity=".07" stroke="#00FF41" stroke-width="2" filter="url(#gb)"><animate attributeName="stroke-opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></path>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono','Consolas','Courier New',monospace"><text x="22" y="22" font-size="10" fill="#00FF41" letter-spacing="3" opacity=".9">INSTAGRAM</text>
+<text x="22" y="40" font-size="14" font-weight="700" fill="#EAF6FF">@surajupadhyayx</text></g>
+<rect x="198" y="22" width="8" height="8" fill="#00FF41"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
